@@ -1,1 +1,1 @@
-﻿#Go to src then Main.kt or Main.java to see the actual code
+﻿#Go to src then TicTacToe.kt or TicTacToe.java to see the actual code
