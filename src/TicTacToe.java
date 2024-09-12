@@ -1,5 +1,5 @@
 import java.util.*;
-
+//The computer dynamically adapts based off what you play
 public class TicTacToe {
     static String pickWinner(String x, String y) {
         if (Objects.equals(x, "rock")) {
