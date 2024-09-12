@@ -1,5 +1,5 @@
 import java.lang.Math.random
-
+//Note: The computer dynamically adapts based off what you play
 fun pickWinner(x: String, y: String): String {
     if (x == "rock") {
         if (y == "rock") {
